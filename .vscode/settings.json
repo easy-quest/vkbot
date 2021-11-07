@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "python.testing.pytestArgs": [
+        "bot"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./bot",
+        "-p",
+        "*test.py"
+    ]
+}
