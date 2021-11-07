@@ -1,0 +1,13 @@
+.
+├── bot
+│   └── __init__.py
+├── pyproject.toml
+├── README.rst
+├── requirements.txt
+├── tests
+│   ├── __init__.py
+│   └── test_bot.py
+└── trans
+    └── trans.py
+
+3 directories, 7 files
